@@ -1,0 +1,22 @@
+{
+  "name": "Angular hot key manager",
+  "version": "0.0.1",
+  "authors": [
+    "minutephp <dev@minutephp.com>"
+  ],
+  "description": "Assign hot keys to controller functions",
+  "main": "src/js/angular-hotkeys.js",
+  "keywords": [
+    "angularjs",
+    "hotkeys"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.minutephp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
